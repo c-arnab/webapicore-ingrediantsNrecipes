@@ -1,0 +1,44 @@
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.exe
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.deps.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.runtimeconfig.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.runtimeconfig.dev.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.pdb
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csprojAssemblyReference.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.AssemblyInfoInputs.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.AssemblyInfo.cs
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csproj.CoreCompileInputs.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.RazorTargetAssemblyInfo.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csproj.CopyComplete
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\staticwebassets\ingrediantsNrecipesApi.StaticWebAssets.Manifest.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\staticwebassets\ingrediantsNrecipesApi.StaticWebAssets.xml
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.pdb
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.genruntimeconfig.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\appsettings.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.exe
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.deps.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.runtimeconfig.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.runtimeconfig.dev.json
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\ingrediantsNrecipesApi.pdb
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csprojAssemblyReference.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.AssemblyInfoInputs.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.AssemblyInfo.cs
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csproj.CoreCompileInputs.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.RazorTargetAssemblyInfo.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.csproj.CopyComplete
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\staticwebassets\ingrediantsNrecipesApi.StaticWebAssets.Manifest.cache
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\staticwebassets\ingrediantsNrecipesApi.StaticWebAssets.xml
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.dll
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.pdb
+D:\webapicore-ingrediantsNrecipes\ingrediantsNrecipesApi - Base\obj\Debug\netcoreapp3.1\ingrediantsNrecipesApi.genruntimeconfig.cache
