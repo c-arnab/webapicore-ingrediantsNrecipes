@@ -19,7 +19,7 @@ namespace ingredientsNrecipesApi.Controllers
             _logger = logger;
         }
         [HttpPost]
-        public Test Post(Test request)   //RecipeForecastRequest request
+        public List<Test> Post(List<Test> request)   //RecipeForecastRequest request
         {
             
             return request;
